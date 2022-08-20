@@ -1,0 +1,37 @@
+.home{
+  :before{
+    content: "\f015";
+    font-family: "Font Awesome 6 Free", sans-serif;
+    font-weight: 900;
+    margin-right: 5px;
+  }
+}
+.about_me{
+  :before{
+    content: "\f2bb";
+    font-family: "Font Awesome 6 Free", sans-serif;
+    font-weight: 900;
+    margin-right: 5px;
+  }
+}
+.games{
+  :before{
+    content: "\f12e";
+    font-family: "Font Awesome 6 Free", sans-serif;
+    font-weight: 900;
+    margin-right: 5px;
+  }
+}
+.info{
+  :before{
+    content: "\f059";
+    font-family: "Font Awesome 6 Free", sans-serif;
+    font-weight: 900;
+    margin-right: 5px;
+  }
+}
+.home_section{
+  background-color: #dfc2c4;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
